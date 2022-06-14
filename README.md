@@ -3,7 +3,7 @@
 
 - 🔭  I’m currently working on I am currently working on developing and building my data science career
 
-- 🌱  I’m currently learning Artificial Intelligence, Machine Learning, Data Engineering, AWS
+- 🌱  I’m currently learning Artificial Intelligence, Data Engineering, Cloud Computing Services (GCP, AWS, AZURE)
 
 - 🤝  I’m looking to collaborate on open-source projects that has social impact
 
